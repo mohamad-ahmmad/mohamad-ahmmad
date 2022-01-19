@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on web development 
-- 📫 How to reach me my gmail
+- 📫 How to reach me my eng.2002.mohammad@gmail.com
 
 <!---
 mohamad-ahmmad/mohamad-ahmmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
