@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @mohamad-ahmmad
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on web development 
+
+- 👀 I’m interested in #Web Development
+
+- 🌱 I’m currently learning JS/ESNXT
+
 - 📫 How to reach me my eng.2002.mohammad@gmail.com
 
 <!---
