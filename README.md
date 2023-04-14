@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in #Web Development
 
-- 🌱 I’m currently learning JS/ESNXT
+- 🌱 I’m currently learning Node.js/Express
 
 - 📫 How to reach me my eng.2002.mohammad@gmail.com
 
